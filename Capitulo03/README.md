@@ -30,7 +30,7 @@ Paso 3. Abrir Copilot en PowerPoint.
 
 Paso 4. En el botón "Agregar contenido", seleccionar la opción "Agregar contenido de trabajo" y buscar el documento `Propuesta_Expansion_Servicio_Digital_PyMEs.docx` generado en la demostración anterior.
 
->[!Nota]
+>[!NOTE]
 > Si el documento no aparece, verificar que se haya guardado correctamente en OneDrive o SharePoint y que la cuenta de PowerPoint tenga acceso al mismo. En caso de no encontrarlo, se puede cargar manualmente en el botón "Cargar archivos".
 
 ![Seleccionar documento para presentación](../images/Capitulo3/2.png)
@@ -58,12 +58,12 @@ Paso 6. Copilot hará preguntas adicionales para entender mejor el contexto y lo
 
 ![Interacción con Copilot para generar presentación](../images/Capitulo3/3.png)
 
->[!Nota]
+>[!NOTE]
 >Las preguntas de Copilot pueden variar de acuerdo a la información que haya podido extraer del documento y su capacidad para entender el contexto.
 
 Paso 7. Revisar la estructura generada y confirmar que cada diapositiva tenga un mensaje central claro.
 
-> [!Nota]
+> [!NOTE]
 > Mientras se genera la presentación, mencionar que el resultado puede variar según la versión de Copilot, la calidad del documento fuente y la política de generación de contenido del entorno. El objetivo es mostrar un resultado inicial que luego se puede refinar, no necesariamente obtener una presentación perfecta en el primer intento.
 
 ![Resultado inicial de la presentación generada por Copilot](../images/Capitulo3/4.png)
@@ -137,7 +137,7 @@ Paso 3. Confirmar que la presentación responda a las preguntas principales del 
 
 Paso 4. Guardar la presentación con el nombre `Comite_Direccion_Expansion_Servicio_Digital_PyMEs`.
 
->[!Nota]
+>[!NOTE]
 > Explicar que la experiencia completa mostró un flujo de trabajo continuo: Outlook aportó señales, Copilot Chat sintetizó el análisis, Word estructuró la propuesta y PowerPoint convirtió el documento en una presentación para dirección.
 
 ### Resultado esperado

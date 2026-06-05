@@ -126,7 +126,7 @@ Prompt sugerido:
 Edita o agrega una sección de próximos pasos con una tabla que incluya: Acción, Responsable preliminar, Plazo sugerido, Dependencia y Resultado esperado.
 ```
 
-> [!Nota]
+> [!NOTE]
 > Confirmar que el documento no incluya información sensible, datos personales, cifras no validadas ni compromisos regulatorios sin revisión humana.
 
 ---
@@ -141,12 +141,12 @@ Paso 3. Mencionar que este resumen sirve como guía para construir la presentaci
 ![Resumen para presentación](../images/Capitulo2/12.png)
 
 Paso 4. Dar clic en el botón "Mostrarme un resumen detallado" para que Copilot genere un resumen más estructurado que sirva como guion para la presentación.
-> [!Nota]
+> [!NOTE]
 > Este resumen se generará en la ventana de Copilot, no en el documento. El instructor puede copiar y pegar este resumen en un documento aparte para usarlo como guion en la siguiente demostración de PowerPoint.
 
 ![Resumen detallado para presentación](../images/Capitulo2/13.png)
 
-> [!Nota]
+> [!NOTE]
 > Este documento será utilizado como fuente en la siguiente demostración para construir una presentación ejecutiva con Copilot en PowerPoint. Es importante que el documento esté estructurado, claro y orientado a dirección para facilitar la generación de diapositivas ejecutivas.
 
 ### Resultado esperado

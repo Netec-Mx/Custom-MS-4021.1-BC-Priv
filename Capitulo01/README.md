@@ -33,7 +33,7 @@ Paso 3. Identificar al menos cuatro cadenas de correo que representen las siguie
 
     ![Barra de Búsqueda](../images/Capitulo1/1.png)
 
-> [!Nota]
+> [!NOTE]
 > Se utilizan datos ficticios o anonimizados para evitar compartir información sensible. El objetivo es simular un escenario realista sin comprometer la confidencialidad, sin embargo, el instructor puede adaptar el escenario con ejemplos más cercanos a la realidad de los participantes, siempre cuidando la privacidad y seguridad de la información.
 
 
@@ -63,7 +63,7 @@ Integra los resúmenes anteriores en un solo mensaje con esta estructura:
 - Observaciones operativas para la salida a producción.
 
 ```
-> [!Nota]
+> [!NOTE]
 > Explicar a los participantes que esta primera actividad no es una tarea aislada, sino la preparación del contexto que alimentará el análisis ejecutivo de Copilot Chat y, posteriormente, la propuesta en Word y la presentación en PowerPoint.
 
 ![Consolidado resumen](../images/Capitulo1/3.png)
@@ -147,7 +147,7 @@ Genera cinco recomendaciones iniciales para el Comité de Dirección. Cada recom
 ```
 ![Recomendaciones](../images/Capitulo1/9.png)
 
-> [!Nota]
+> [!NOTE]
 > Confirmar con los participantes que el análisis no reemplaza la validación humana. Resaltar que el instructor debe revisar consistencia, confidencialidad, sesgos, supuestos y fuentes antes de utilizar el resultado en documentos oficiales.
 
 ---
@@ -170,7 +170,7 @@ Organiza todo el análisis en una estructura lista para Word con estas secciones
 ```
 ![Estructura para Word](../images/Capitulo1/10.png)
 
-> [!Nota]
+> [!NOTE]
 > Este insumo será utilizado en la siguiente demostración para construir la propuesta formal con Copilot en Word.
 
 ### Resultado esperado
