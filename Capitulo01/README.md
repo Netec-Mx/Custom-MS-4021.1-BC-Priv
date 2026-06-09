@@ -1,4 +1,4 @@
-# Microsoft 365 Copilot Chat — Análisis ejecutivo para expansión de servicio digital PyME
+# Demostración 1: Microsoft 365 Copilot Chat — Análisis ejecutivo para expansión de servicio digital PyME
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
