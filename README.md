@@ -20,70 +20,29 @@ Te damos la bienvenida a la **plataforma de laboratorios** del curso **Experienc
 
 Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
 
+---
 
+### [Demostración 1: Microsoft 365 Copilot Chat — Análisis ejecutivo para expansión de servicio digital PyME](Capitulo01) 
 
-### [Práctica 1. Nombre de la práctica](CHAPTER_01/ch01-investment-portfolio/README.md) 
+  - **Descripción**: Analizar y sintetizar información ejecutiva relacionada con el lanzamiento de un servicio financiero digital para PyMEs, utilizando Microsoft 365 Copilot Chat para identificar riesgos, oportunidades y decisiones clave que servirán como base para una propuesta ejecutiva formal.
 
-  - **Descripción**: xxx.
+  - ⏱️ **Duración estimada**: 25 min.
 
-  - ⏱️ **Duración estimada**: xx min.
+---
 
+### [Demostración 2: Copilot en Word — Propuesta ejecutiva para expansión del servicio financiero digital](Capitulo02)
 
+  - **Descripción**: Elaborar una propuesta ejecutiva estructurada en Word a partir de un brief generado con Microsoft 365 Copilot Chat, utilizando Copilot para redactar, reorganizar y fortalecer el contenido que servirá como base para una presentación ejecutiva.
 
-### [Práctica 2. Nombre de la práctica](CHAPTER_02/ch02-cashback-schema-design/README.md)
+  - ⏱️ **Duración estimada**: 25 min.
 
-  - **Descripción**: xxx.
+---
 
-  - ⏱️ **Duración estimada**: xx min.
+### [Demostración 3: Copilot en PowerPoint — Presentación ejecutiva para el Comité de Dirección](Capitulo03)
 
+  - **Descripción**: Crear una presentación ejecutiva en PowerPoint a partir de una propuesta desarrollada en Word, utilizando Microsoft 365 Copilot para estructurar, resumir y fortalecer el storytelling de la información estratégica.
 
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_03/ch03-cashback-dgs-service/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
-
-
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_04/ch04-smart-savings-goals/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
-
-
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_05/ch05-p2p-lending-federation/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
-
-
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_06/ch06-fraud-detection-subscriptions/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
-
-
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_07/ch07-expense-analytics-caching/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
-
-
-
-### [Práctica 3. Nombre de la práctica](CHAPTER_08/ch08-carbon-footprint-governance/README.md)
-
-  - **Descripción**: xxx.
-
-  - ⏱️**Duración estimada**: xx min.
-
+  - ⏱️**Duración estimada**: 25 min.
 
 
 ---
@@ -93,13 +52,10 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 ## 📬 **Contacto y más información**
 
 
-
 Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
 
 
-
 ---
-
 
 
 ¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
