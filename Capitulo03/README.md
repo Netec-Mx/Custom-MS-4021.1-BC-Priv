@@ -10,6 +10,7 @@ Al finalizar la práctica, serás capaz de:
 - 25 minutos.
 
 ## Tabla de ayuda:
+
 | Elemento | Valor de referencia | Observaciones |
 | --- | --- | --- |
 | Aplicación principal | Microsoft PowerPoint con Copilot | Usar cuenta corporativa con acceso a Microsoft 365 Copilot. |
@@ -144,6 +145,7 @@ Paso 4. Guardar la presentación con el nombre `Comite_Direccion_Expansion_Servi
 Al finalizar la demostración, el participante debe observar una presentación ejecutiva lista para revisión humana y exposición ante el Comité de Dirección.
 
 Estructura esperada de la presentación:
+
 | Diapositiva | Resultado esperado |
 | --- | --- |
 | 1. Portada ejecutiva | Nombre del proyecto, audiencia y propósito de la decisión. |
