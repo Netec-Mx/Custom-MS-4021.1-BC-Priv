@@ -1,4 +1,4 @@
-# Copilot en PowerPoint — Presentación ejecutiva para el Comité de Dirección
+# Demostración 3: Copilot en PowerPoint — Presentación ejecutiva para el Comité de Dirección
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
