@@ -10,6 +10,7 @@ Al finalizar la práctica, serás capaz de:
 - 25 minutos.
 
 ## Tabla de ayuda:
+
 | Elemento | Valor de referencia | Observaciones |
 | --- | --- | --- |
 | Aplicaciones principales | Outlook, Microsoft 365 Copilot Chat | Usar cuenta corporativa con acceso a Microsoft 365 Copilot. |
@@ -177,6 +178,7 @@ Organiza todo el análisis en una estructura lista para Word con estas secciones
 Al finalizar la demostración, el participante debe observar un flujo continuo en el que Outlook aporta el contexto, Copilot Chat organiza el análisis y el resultado queda listo para transformarse en una propuesta ejecutiva.
 
 Resultado esperado del brief:
+
 | Sección | Resultado esperado |
 | --- | --- |
 | Resumen ejecutivo | Síntesis clara sobre la expansión del servicio digital PyME. |
