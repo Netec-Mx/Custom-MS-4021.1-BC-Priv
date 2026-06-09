@@ -1,4 +1,4 @@
-# Copilot en Word — Propuesta ejecutiva para expansión del servicio financiero digital
+# Demostración 2: Copilot en Word — Propuesta ejecutiva para expansión del servicio financiero digital
 
 ## Objetivo de la práctica:
 Al finalizar la práctica, serás capaz de:
