@@ -10,6 +10,7 @@ Al finalizar la práctica, serás capaz de:
 - 25 minutos.
 
 ## Tabla de ayuda:
+
 | Elemento | Valor de referencia | Observaciones |
 | --- | --- | --- |
 | Aplicación principal | Microsoft Word con Copilot | Usar cuenta corporativa con acceso a Microsoft 365 Copilot. |
@@ -153,6 +154,7 @@ Paso 4. Dar clic en el botón "Mostrarme un resumen detallado" para que Copilot 
 Al finalizar la demostración, el participante debe observar cómo un brief generado en Copilot Chat se transforma en una propuesta ejecutiva clara, estructurada y lista para ser usada como fuente de una presentación.
 
 Estructura esperada del documento:
+
 | Sección | Resultado esperado |
 | --- | --- |
 | Resumen ejecutivo | Síntesis breve con oportunidad, riesgos y decisión solicitada. |
